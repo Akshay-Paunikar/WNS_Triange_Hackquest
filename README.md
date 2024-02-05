@@ -114,8 +114,10 @@ Please ensure that your final submission includes the following:
 
  1. Solution file containing the predictions for the image_id in the test set (Format is given in sample_submission.csv)
  2. A zipped file containing code & approach (Note that both code and approach document are mandatory for prizes)
-   1. Code: The submission code must include the complete modeling cycle.
-   2. Approach: Please share your approach to solve the problem (doc/ppt/pdf format). It should cover the following topics:
+ 
+  1. Code: The submission code must include the complete modeling cycle.
+  2. Approach: Please share your approach to solve the problem (doc/ppt/pdf format). It should cover the following topics:
+
      1. A brief on the approach used to solve the problem.
      2. What does your final model architecture look like? 
      3. List of various experiments tried before arriving at the final solution.
